@@ -14,7 +14,7 @@ Welcome to my GitHub! I enjoy building projects at the intersection of **machine
 Trained a neural network to forecast **30-day forward realized volatility** using historical returns and rolling volatility features, outperforming a rolling-window benchmark out-of-sample.  
 Integrated the model into a **time-varying Monte Carlo simulation**, re-estimating volatility at each step to generate path-dependent price dynamics and option price estimates with Monte Carlo standard errors.
 
-👉 Repo: *[[add GitHub link here]](https://github.com/andrew-simons/montecarlo-ml)*
+👉 Repo: https://github.com/andrew-simons/montecarlo-ml
 
 ---
 
