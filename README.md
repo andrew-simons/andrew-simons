@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Andrew Simons
 
 🎓 MIT ’29 — Computer Science, Economics, & Data Science (6-14) + Mathematics (18)  
-🤖 AI | 📈 Quant Finance | 📱 Mobile Development | 🎵 Nonprofit Founder
 
 Welcome to my GitHub! I enjoy building projects at the intersection of **machine learning, mathematics, optimization, and real-world impact**.
 
