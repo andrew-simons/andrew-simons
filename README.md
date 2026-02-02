@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Andrew Simons
 
-🎓 MIT ’29 — Computer Science, Economics, & Data Science (6-14) + Mathematics (18)  
+🎓 MIT — Computer Science, Economics, & Data Science (6-14) + Mathematics (18)  
 
 Welcome to my GitHub! I enjoy building projects at the intersection of **machine learning, mathematics, optimization, and real-world impact**.
 
