@@ -14,6 +14,7 @@ Full-stack web application that turns habit formation into a **persistent, multi
 Designed a hybrid architecture using **REST for durable state** (users, quests, inventory, rooms) and **WebSockets for ephemeral state** (presence, movement, actions), with explicit ownership rules to prevent state divergence across concurrent users.
 
 👉 Repo: https://github.com/andrew-simons/QuestLog  
+WEBSITE LINK: https://questlog-hocl.onrender.com/ 
 *(MIT WebLab project)*
 
 ---
