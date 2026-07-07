@@ -6,6 +6,15 @@ I'm interested in machine learning, quantitative finance, optimization, and buil
 
 ## Featured Projects
 
+### Botswana Climate Early Warning System
+**Python · PyTorch · Google Earth Engine · XGBoost · ConvLSTM · FastAPI**
+
+Developing a spatiotemporal machine learning pipeline for drought and flood early warning in Botswana. The system ingests 20+ years of satellite and climate reanalysis data to generate per-pixel drought and flood risk forecasts using deep learning and interpretable machine learning techniques.
+
+Designed an end-to-end pipeline for large-scale geospatial data ingestion, preprocessing, feature engineering, and model training, progressing from statistical baselines to XGBoost, LSTM, and ConvLSTM architectures. The project is intended to power a FastAPI backend that serves risk predictions and SHAP explanations for citizens, government agencies, and NGOs.
+
+**Repository:** https://github.com/andrew-simons/botswana-drought-flood
+
 ### QuestLog
 
 **React · Node.js · Express · MongoDB · WebSockets · OAuth**
