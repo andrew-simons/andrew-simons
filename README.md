@@ -1,51 +1,59 @@
-# 👋 Hi, I'm Andrew Simons
+# Andrew Simons
 
-🎓 MIT — Computer Science, Economics, & Data Science (6-14) + Mathematics (18)  
+MIT — Computer Science, Economics, and Data Science (6-14) + Mathematics (18)
 
-Welcome to my GitHub! I enjoy building projects at the intersection of **machine learning, mathematics, optimization, and real-world impact**.
+I'm interested in machine learning, quantitative finance, optimization, and building software that solves practical problems. Most of my projects are either research-oriented or full-stack applications with a focus on real-world use.
 
----
+## Featured Projects
 
-## 📂 Featured Projects
+### QuestLog
 
-### 🧠 QuestLog — Multiplayer Gamified Self-Improvement Platform  
-**React · Node.js · Express · MongoDB · WebSockets · OAuth**  
-Full-stack web application that turns habit formation into a **persistent, multiplayer game**. Users complete quests, earn XP and currency, customize shared rooms, and interact with friends in real time.  
-Designed a hybrid architecture using **REST for durable state** (users, quests, inventory, rooms) and **WebSockets for ephemeral state** (presence, movement, actions), with explicit ownership rules to prevent state divergence across concurrent users.
+**React · Node.js · Express · MongoDB · WebSockets · OAuth**
 
-👉 Repo: https://github.com/andrew-simons/QuestLog  
-WEBSITE LINK: https://questlog-hocl.onrender.com/ 
+A full-stack multiplayer productivity platform that turns habit formation into a persistent game. Users complete quests, earn experience and in-game currency, customize shared rooms, and interact with friends in real time.
 
-*(MIT WebLab project)*
+The backend uses a hybrid architecture: REST APIs manage persistent state (users, inventory, quests, rooms), while WebSockets synchronize real-time interactions such as movement, presence, and player actions. The system was designed with clear ownership rules to prevent state inconsistencies across concurrent users.
 
----
+**Repository:** https://github.com/andrew-simons/QuestLog
+**Live Demo:** https://questlog-hocl.onrender.com/
 
-### 📊 Machine-Learned Volatility & Time-Varying Monte Carlo Pricing  
-**PyTorch · Python · NumPy · Pandas · Quant Finance**  
-Trained a neural network to forecast **30-day forward realized volatility** using historical returns and rolling volatility features, outperforming a rolling-window benchmark out-of-sample.  
-Integrated the model into a **time-varying Monte Carlo simulation**, re-estimating volatility at each step to generate path-dependent price dynamics and option price estimates with Monte Carlo standard errors.
-
-👉 Repo: https://github.com/andrew-simons/montecarlo-ml
+*MIT WebLab Final Project*
 
 ---
 
-### 🎵 Children’s Music Brigade App  
-**Flutter · Firebase · Cloud Functions · PDF Generation**  
-Cross-platform volunteer management system for a national nonprofit coordinating performances at hospitals and nursing homes.
+### Machine-Learned Volatility & Time-Varying Monte Carlo Pricing
 
-👉 Live Demo Video: https://www.youtube.com/watch?v=aPLsThLf-3E  
-👉 Repo: https://github.com/andrew-simons/Mobile_App_for_CMB_Inc./tree/main  
-*(Most of my code lives in the `lib/` folder.)*
+**PyTorch · Python · NumPy · Pandas**
 
----
+Built a neural network to predict 30-day forward realized volatility from historical market data and rolling volatility features. The model consistently outperformed a rolling-window baseline on out-of-sample data.
 
-### 📈 Market Sentiment ML Pipeline  
-**LSTM · Random Forest · Logistic Regression · Python**  
-End-to-end machine learning pipeline that predicts short-term market sentiment from **50k+ social media posts**, including feature engineering, model comparison, and evaluation.
+Integrated these forecasts into a Monte Carlo pricing engine that updates volatility throughout each simulated path, producing more realistic option pricing estimates and confidence intervals.
+
+**Repository:** https://github.com/andrew-simons/montecarlo-ml
 
 ---
 
-### 🌐 More Coming Soon  
-Machine learning research, quantitative finance tools, algorithmic trading experiments, and applied systems work.
+### Children's Music Brigade App
 
-If you're working on something interesting in **AI, quant finance, or applied systems**, feel free to reach out — I’m always excited to collaborate.
+**Flutter · Firebase · Cloud Functions**
+
+Cross-platform volunteer management application built for a nonprofit coordinating performances at hospitals and nursing homes. The platform handles event scheduling, attendance tracking, volunteer management, notifications, and automated service-hour reporting.
+
+**Repository:** https://github.com/andrew-simons/Mobile_App_for_CMB_Inc./tree/main
+**Demo:** https://www.youtube.com/watch?v=aPLsThLf-3E
+
+---
+
+### Market Sentiment ML Pipeline
+
+**Python · LSTM · Random Forest · Logistic Regression**
+
+Developed an end-to-end machine learning pipeline that predicts short-term market sentiment from more than 50,000 social media posts. The project includes data preprocessing, feature engineering, model training, comparison across multiple architectures, and evaluation.
+
+---
+
+### More Projects
+
+I'm currently working on machine learning research, quantitative finance, climate modeling, and applied systems projects. I'll continue adding them here as they're completed.
+
+If you're interested in AI, quantitative finance, systems, or machine learning, feel free to reach out.
