@@ -27,16 +27,10 @@ The backend uses a hybrid architecture: REST APIs manage persistent state (users
 **Live Demo:** https://questlog-hocl.onrender.com/
 **Preview:** 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f8cac568-4211-4f85-97e8-bdc0d83e59e5" width="32%" />
   <img src="https://github.com/user-attachments/assets/8c96df9b-53d5-423f-a5aa-7a53244a8aaa" width="32%" />
   <img src="https://github.com/user-attachments/assets/63d77930-325d-40a2-bc43-dfe33a2675fd" width="32%" />
-</p>
-
-<p align="center">
   <img src="https://github.com/user-attachments/assets/7952bc3e-e3b9-4e4d-8a92-647bbce510f9" width="32%" />
-  <img src="https://github.com/user-attachments/assets/9122da56-e820-4061-8c9c-b7d559e88826" width="32%" />
 </p>
-
 
 *MIT WebLab Final Project*
 
